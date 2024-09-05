@@ -21,7 +21,7 @@
 [![Android](https://img.shields.io/badge/Android%2015-00C000?style=flat-square&logo=android&logoColor=FFFFFF)](https://www.android.com/android-15)
 
 ### 📱 Devices
-[![MacBook Pro 14](https://img.shields.io/badge/MacBookPro%2014%20M3%20Pro-000000?style=flat-square&logo=apple&logoColor=FFFFFF)](https://www.apple.com/iphone-15-pro/)
+[![MacBook Pro 14](https://img.shields.io/badge/MacBook%20Pro%2014%20M3Pro-000000?style=flat-square&logo=apple&logoColor=FFFFFF)](https://www.apple.com/iphone-15-pro/)
 [![Insprion 16 Plus](https://img.shields.io/badge/Insprion%2016%20Plus-007DB8?style=flat-square&logo=dell&logoColor=FFFFFF)](https://www.dell.com/en-us/shop/dell-computer-laptops/scr/laptops/appref=inspiron-product-line)
 [![iPhone 15 Pro Max](https://img.shields.io/badge/iPhone%2015%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=FFFFFF)](https://www.apple.com/iphone-15-pro/)
 [![Pixel 7](https://img.shields.io/badge/Pixel%207-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://www.mi.com/redmik20pro)
