@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flyfishxu&include_all_commits=true&show_icons=true&hide_title=true&count_private=true&theme=ambient_gradient" />
 
 - 👋 @flyfishxu Kotlin is the best language
-- 🥠 zh_CN & en_US.
+- 🌎 zh_CN & en_US.
 - 🏫 A student at ZJUT, majored in Software Engineering.
 - 👀 Interested in Android and Kotlin related stuff.
 - 📫 Rech me at flyfishxu@outlook.com
